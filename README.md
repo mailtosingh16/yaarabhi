@@ -1,3 +1,3 @@
 # yaarabhi
 this is my first repositry
-author - abhishek singh
+ author - abhishek singh
